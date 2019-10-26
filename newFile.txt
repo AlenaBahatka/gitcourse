@@ -3,9 +3,3 @@ second line
 third line
 
 fifth line 
-
------
-
-
-new feature
-more to a new feature
